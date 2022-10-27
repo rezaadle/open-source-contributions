@@ -1,2 +1,3 @@
 # open-source-contributions
-My contributions to Scikit-Learn
+
+Collaborate with Scikit-Learn Core Developers to contribute to open source softwares while learning the necessary skill of clean coding.
